@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#define NUMBER 100
+#define NUMBER 50
 
 void origin (char s[], int y, int i );
 void converse (char s[]);
